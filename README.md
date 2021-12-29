@@ -9,6 +9,15 @@ The generator tries to recreate the images and these images are available in the
 Real Image:
 <br>
 <img src="https://github.com/adupatil/Image_Generator/blob/main/results/real_sample.png" height=250 width=250>
+<br>
 Fake Image epoch 5:
 <br>
-<img src=>
+<img src="https://github.com/adupatil/Image_Generator/blob/main/results/fake_samples_epoch_005.png" height=250 width=250>
+<br>
+Fake Image epoch 10:
+<br>
+<img src="https://github.com/adupatil/Image_Generator/blob/main/results/fake_samples_epoch_010.png" height=250 width=250>
+<br>
+Fake Image final epoch:
+<br>
+<img src="https://github.com/adupatil/Image_Generator/blob/main/results/fake_samples_epoch_019.png" height=250 width=250>
