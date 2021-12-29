@@ -6,3 +6,9 @@ The generator and discriminator have been trained on CIFAR-10 dataset
 ## Output
 The generator tries to recreate the images and these images are available in the folder named <strong>results</strong>.
 
+Real Image:
+<br>
+<img src="https://github.com/adupatil/Image_Generator/blob/main/results/real_sample.png" height=250 width=250>
+Fake Image epoch 5:
+<br>
+<img src=>
